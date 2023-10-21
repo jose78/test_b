@@ -1,4 +1,4 @@
-module github.com/jose78/test_b/v4
+module github.com/jose78/test_b
 
 go 1.20
 
